@@ -1,6 +1,4 @@
 
-# -*- coding: utf-8 -*-
-
 def ordenado(input_code):
     p = input_code[0]
     y =True
